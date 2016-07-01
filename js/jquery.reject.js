@@ -73,20 +73,21 @@ $.reject = function(options) {
 		},
 
 		// Pop-up Window Text
-		header: '您的浏览器太旧了',
+		header: 'Did you know that your Internet Browser is out of date?',
 
-		paragraph1: '您的浏览器太旧了，访问本网站会出现问题，请使用最新的浏览器访问本网站。'+
-					'下面列出了一些较新的浏览器（推荐前两个）',
+		paragraph1: 'Your browser is out of date, and may not be compatible with '+
+ -					'our website. A list of the most popular web browsers can be '+
+ -					'found below.',
 
-		paragraph2: '点击图标可前往下载地址:',
+		paragraph2: 'Just click on the icons to get to the download page',
 
 		// Allow closing of window
 		close: true,
 
 		// Message displayed below closing link
-		closeMessage: '关闭这个窗口表示您明白您在本网站的访问体验可能降低，'+
-						'或者会出现未知问题',
-		closeLink: '关闭窗口',
+		closeMessage: 'By closing this window you acknowledge that your experience '+
+ -						'on this website may be degraded',
+		closeLink: 'Close This Window',
 		closeURL: '#',
 
 		// Allows closing of window with esc key
