@@ -76,8 +76,8 @@ $.reject = function(options) {
 		header: 'Did you know that your Internet Browser is out of date?',
 
 		paragraph1: 'Your browser is out of date, and may not be compatible with '+
- -					'our website. A list of the most popular web browsers can be '+
- -					'found below.',
+ 					'our website. A list of the most popular web browsers can be '+
+ 					'found below.',
 
 		paragraph2: 'Just click on the icons to get to the download page',
 
@@ -86,7 +86,7 @@ $.reject = function(options) {
 
 		// Message displayed below closing link
 		closeMessage: 'By closing this window you acknowledge that your experience '+
- -						'on this website may be degraded',
+ 						'on this website may be degraded',
 		closeLink: 'Close This Window',
 		closeURL: '#',
 
